@@ -7,17 +7,13 @@
 
 <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-## Installation
+## Установка
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Запуск
 
 ```bash
 # development
@@ -30,7 +26,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Тесты
 
 ```bash
 # unit tests
@@ -42,10 +38,6 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Миграции
 
@@ -70,6 +62,6 @@ tsc
 typeorm migration:run
 ```
 
-## License
+## Лицензия
 
 Nest is [MIT licensed](LICENSE).
